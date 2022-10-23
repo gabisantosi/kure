@@ -112,7 +112,7 @@ footer a:link, footer a:visited {
 }
 
 .tm-content {
-  padding-bottom: 50px;
+  padding: 30px 0 50px 0;
   display: flex;
   justify-content: flex-end;
   width: 100%;
