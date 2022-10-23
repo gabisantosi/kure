@@ -661,3 +661,8 @@ figure.effect-goliath:hover p {
 .tm-static {
   position: static;
 }
+
+.tm-site-header-box {
+  padding: 40px 80px 0 0;
+  margin: -10px 40px 0;
+}
