@@ -127,7 +127,7 @@ footer a:link, footer a:visited {
   font-size: 3.4rem;
   text-transform: uppercase;
   color:black;
-  background-color: rgba(255, 255, 255, 0.4);
+  /* background-color: rgba(255, 255, 255, 0.4); */
 }
 
 .tm-textbox {
